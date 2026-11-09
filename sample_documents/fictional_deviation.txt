@@ -1,0 +1,13 @@
+FICTIONAL TRAINING EXERCISE — no real product, batch, patient, or company.
+
+Deviation ID: DEV-FICTIONAL-001
+Incident date: 2025-08-12
+Product/API: Asteramide (fictional)
+Batch: LOT-TRAIN-2401
+Department: API Manufacturing
+Stage: Wet granulation
+Equipment: Granulator G-04
+
+The approved batch instruction specifies a granulator impeller speed of 20 rpm during the final two minutes of wet massing. The batch record for LOT-TRAIN-2401 records 26 rpm for approximately 90 seconds on 12 August 2025. The operator's shift note states that the speed indication increased after a control-panel reset. The batch was paused and the shift supervisor was notified. The source does not include a maintenance assessment, a calibration record, or a documented quality impact assessment.
+
+This fictional example contains no verified root cause. Supporting investigation records would need to be reviewed before drawing conclusions.
